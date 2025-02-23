@@ -20,7 +20,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 Jupyter Notebook for interactive analysis
 
 🚀 How to Run
-Clone this repository:
+Clone this repository: https://github.com/Jeetibp/IPL_Pinch_Hitters_PowerPlay/blob/main/Scouting%20Assignment_pinchhitter.ipynb
 git clone https:
 
 jupyter notebook
